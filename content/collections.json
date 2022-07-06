@@ -5,7 +5,8 @@
       "enabled": true
     },
     {
-      "type": "page-title"
+      "type": "page-title",
+      "description": "Menu"
     },
     {
       "type": "document-banner",
