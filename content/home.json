@@ -5,7 +5,7 @@
     {
       "type": "banner-slider",
       "autoplay": 9000,
-      "full_width": false,
+      "full_width": true,
       "slides": [
         {
           "img": "/img/uploads/rect89.webp",
@@ -16,11 +16,11 @@
           "mobile_img": "/img/uploads/headphone.webp"
         },
         {
-          "img": "/img/uploads/banner2.webp",
+          "img": "/img/uploads/banner1.png",
           "alt": "Banner sample two",
           "start": "",
           "end": "",
-          "mobile_img": "/img/uploads/passion.webp"
+          "mobile_img": "/img/uploads/design-sem-nome-26-.png"
         }
       ]
     },
