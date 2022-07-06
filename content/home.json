@@ -32,7 +32,7 @@
       "type": "collection-shelf",
       "shuffle": false,
       "collection_id": "62c2f501eb859112167428c2:categories:iPhone:/iphone",
-      "sort": null,
+      "sort": "slug",
       "title": "",
       "headless": false,
       "limit": 12,
