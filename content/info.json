@@ -1,13 +1,13 @@
 {
   "shipping": {
     "show": true,
-    "text": "Entregamos para todo o Brasil",
-    "title": "Envio "
+    "text": "ENTREGAMOS EM TODO O BRASIL",
+    "title": ""
   },
   "installments": {
     "show": true,
-    "text": "Pague Até 12x Sem Juros",
-    "title": "Cartões De Crédito"
+    "text": "PARCELAMSO EM 12X SEM JUROS",
+    "title": ""
   },
   "exchange": {
     "show": false,
@@ -15,7 +15,7 @@
   },
   "promo": {
     "show": true,
-    "text": "10% De Desconto ",
-    "title": "Pagamento À Vista"
+    "text": "5% DE DESCONTO NO PIX",
+    "title": ""
   }
 }
