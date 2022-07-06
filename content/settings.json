@@ -1,26 +1,26 @@
 {
   "domain": "klmultimarcas.com.br",
   "currency_symbol": "R$",
-  "primary_color": "#222831",
+  "primary_color": "#141111",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
   },
-  "bg_color": "#ffffff",
+  "bg_color": "#ffe24f",
   "repository": "ecomplus-stores/klmultimarcasfinanceiro",
   "logo": "/img/uploads/logo-kl-multi-marcas.jpg",
   "name": "KL Multi Marcas",
-  "short_name": "klmultimarcasfinancei",
+  "short_name": "KL Multi Marcas",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
   "font_family": "_",
-  "favicon": "/img/uploads/favicon.png",
+  "favicon": "/img/uploads/logo-kl-multi-marcas.jpg",
   "icons_font": "_",
   "country_code": "BR",
-  "secondary_color": "#393e46",
-  "icon": "/img/icon.png",
+  "secondary_color": "#141111",
+  "icon": "/img/uploads/logo-kl-multi-marcas.jpg",
   "store_id": 51290,
-  "description": "klmultimarcasfinanceiro",
-  "large_icon": "/img/large-icon.png"
+  "description": "Loja De Eletrônicos,iPhone,Celulares,Relógios,Acessórios.",
+  "large_icon": "/img/uploads/logo-kl-multi-marcas.jpg"
 }
