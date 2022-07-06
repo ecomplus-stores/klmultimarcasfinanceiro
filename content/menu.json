@@ -1,6 +1,17 @@
 {
-  "sort_categories": [],
-  "alphabetical_order": false,
+  "sort_categories": [
+    "iphone",
+    "mac",
+    "musica",
+    "smartphone",
+    "pulseira-xiaomi-smart",
+    "iphone-semi-novos",
+    "smartphone-redmi",
+    "smartwatch-xiaomi",
+    "watch",
+    "ipad"
+  ],
+  "alphabetical_order": true,
   "phone_wpp": true,
   "socials": true
 }
