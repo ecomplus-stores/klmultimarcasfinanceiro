@@ -8,10 +8,6 @@
   "contacts_stripe": {
     "pages": [
       {
-        "title": "Sobre nós",
-        "link": "/pages/sobre-nos"
-      },
-      {
         "title": "Contato KL Multi Marcas",
         "link": "/posts/contato-KL Multi Marcas"
       }
