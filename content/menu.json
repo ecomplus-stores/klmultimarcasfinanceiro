@@ -3,13 +3,10 @@
     "iphone",
     "mac",
     "musica",
-    "smartphone",
-    "pulseira-xiaomi-smart",
-    "iphone-semi-novos",
-    "smartphone-redmi",
-    "smartwatch-xiaomi",
     "watch",
-    "ipad"
+    "smartwatch-xiaomi",
+    "ipad",
+    "iphone-semi-novos"
   ],
   "alphabetical_order": false,
   "phone_wpp": true,
