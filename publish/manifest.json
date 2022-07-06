@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.8df68a72269e952f05b63b8fb186a1d5.jpeg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_384x384.220c4e881ea6289ff173483f0ab12b60.jpeg",
+      "sizes": "384x384",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_192x192.2c8d82a8856191406e7ba2d53597e817.jpeg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_128x128.7f7931481b3b469a74451c15e3139432.jpeg",
+      "sizes": "128x128",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_96x96.e92acc002f69531cfc1c7b6cdf30e859.jpeg",
+      "sizes": "96x96",
+      "type": "image/jpeg"
+    }
+  ],
+  "name": "KL Multi Marcas",
+  "short_name": "KL Multi Marcas",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Loja De Eletrônicos,iPhone,Celulares,Relógios,Acessórios.",
+  "background_color": "#ffe24f",
+  "theme_color": "#141111"
+}
