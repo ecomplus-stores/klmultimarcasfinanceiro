@@ -1,18 +1,21 @@
 {
   "shipping": {
     "show": true,
-    "text": "Entregamos para todo o Brasil"
+    "text": "Entregamos para todo o Brasil",
+    "title": "Envio "
   },
   "installments": {
     "show": true,
-    "text": "Parcele sem juros"
+    "text": "Pague Até 12x Sem Juros",
+    "title": "Cartões De Crédito"
   },
   "exchange": {
-    "show": true,
-    "text": "Não gostou? A primeira troca é gratuita"
+    "show": false,
+    "text": ""
   },
   "promo": {
     "show": true,
-    "text": "Diferentes promoções ao longo do ano!"
+    "text": "10% De Desconto ",
+    "title": "Pagamento À Vista"
   }
 }
