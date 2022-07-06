@@ -1,7 +1,9 @@
 {
   "marketing_stripe": {
-    "text": "Aproveite nossos descontos de até 40%!",
-    "link": "/promotion"
+    "text": "Aproveite nossos descontos de até 10%!",
+    "link": "/promotion",
+    "background": "#ffe24f",
+    "color": "#141111"
   },
   "contacts_stripe": {
     "pages": [
@@ -10,8 +12,8 @@
         "link": "/pages/sobre-nos"
       },
       {
-        "title": "Esta loja é um PWA",
-        "link": "/posts/esta-loja-e-um-pwa"
+        "title": "Contato KL Multi Marcas",
+        "link": "/posts/contato-KL Multi Marcas"
       }
     ],
     "phone_wpp": true,
@@ -19,9 +21,9 @@
   },
   "categories_list": {
     "featured": [],
-    "random": 6,
+    "random": 10,
     "full_width": false
   },
-  "desktop_megamenu": false,
+  "desktop_megamenu": true,
   "search_input": true
 }
