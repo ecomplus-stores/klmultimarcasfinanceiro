@@ -10,7 +10,7 @@
     },
     {
       "type": "document-banner",
-      "enabled": true
+      "enabled": false
     },
     {
       "type": "collection-retail",
