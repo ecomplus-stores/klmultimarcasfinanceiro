@@ -1,23 +1,18 @@
 {
   "marketing_stripe": {
-    "text": "Aproveite nossos descontos de até 10%!",
+    "text": "ENVIAMOSPARA TODO BRASIL",
     "link": "/promotion",
     "background": "#ffe24f",
     "color": "#141111"
   },
   "contacts_stripe": {
-    "pages": [
-      {
-        "title": "Contato KL Multi Marcas",
-        "link": "/posts/contato-KL Multi Marcas"
-      }
-    ],
+    "pages": [],
     "phone_wpp": true,
     "socials": true
   },
   "categories_list": {
     "featured": [],
-    "random": 10,
+    "random": 6,
     "full_width": false
   },
   "desktop_megamenu": true,
